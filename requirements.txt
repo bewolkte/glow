@@ -1,2 +1,0 @@
-discord.py==3.9.1
-asyncio
